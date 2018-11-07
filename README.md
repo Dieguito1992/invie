@@ -1,3 +1,3 @@
 # invie
-Guitarras invisibles - Platzi
+Guitarras invisibles - Platzi|
 Esta es una practica de desarrollo web.
